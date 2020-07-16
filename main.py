@@ -1,7 +1,7 @@
 from random import choice
 
 class fighter:
-	def __init__(self, name, health, str, ):
+	def __init__(self, name, health, str):
 		self.name = name
 		self.health = health
 		self.str = str
